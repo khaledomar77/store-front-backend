@@ -49,4 +49,4 @@ Stackholders want to build an online store for some products available to be pur
 
 ## Endpoint Access
 
-All endpoints are described in the [Link text](https://website-name.com) file.
+All endpoints are described in the [REQUIREMENTS.md](REQUIREMENTS.md) file.
