@@ -45,8 +45,12 @@ Stackholders want to build an online store for some products available to be pur
 
 ## Running Ports
 
-  After start up, the server will start on port `3000` and the database on port `5432`
+  After start up, the server will start on port `3000` and the database on port `5432`, The application will run at the URL: [http://localhost:3000/](http://127.0.0.1:3000/)
 
 ## Endpoint Access
 
 All endpoints are described in the [REQUIREMENTS.md](REQUIREMENTS.md) file.
+
+## Database schema
+
+Full database schema is defined in the [REQUIREMENTS.md](REQUIREMENTS.md) file.
